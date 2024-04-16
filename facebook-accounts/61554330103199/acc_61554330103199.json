@@ -5,7 +5,7 @@
 	"id": "61554330103199",
 	"name": "",
 	"profileName": "Valquiria Pereira Carvalho  (Valquiria Pereira Carvalho)",
-	"amountFriends": "62",
+	"amountFriends": "64",
 	"screenname": "Valquiria Pereira Carvalho  (Valquiria Pereira Carvalho)",
 	"birthdate": "1998 October 10",
 	"country": "Catalao",
@@ -91,20 +91,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1721071633.554864,
+			"expirationDate": 1747856792.197044,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "fr",
+			"name": "ps_n",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1EMR2ULaFYALzHcze.AWWMGuhm1fpVC4Vg7cp3SnJb504.BmHtDK..AAA.0.0.BmHtER.AWU1b_c2jzs"
+			"value": "0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713900577,
+			"expirationDate": 1747856792.197279,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "ps_l",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713902687,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +130,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1721073811.063229,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1EMR2ULaFYALzHcze.AWV71zcfUXcQQ9g86gLZzqpWG8k.BmHtDK..AAA.0.0.BmHtmT.AWUTFQwmpuo"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,8 +151,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713295770645%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713297894167%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.04.2024 19:51 Farm3-8_by_scenum"
+	"lastEventDate": "16.04.2024 20:09 Farm3-8_by_scenum"
 }
